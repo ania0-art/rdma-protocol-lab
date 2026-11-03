@@ -40,9 +40,9 @@ patches/             实验性补丁和上游补丁记录
 - 区分观察到的事实、源码推断和待验证假设
 - 性能结果不把 Soft-RoCE 直接等同于真实 RNIC 结果
 
-## 第一篇实验
+## 第一个实验模板
 
-见 [`docs/experiments/2026-11-03-environment-and-first-observations.md`](docs/experiments/2026-11-03-environment-and-first-observations.md)。
+见 [`docs/experiments/2026-11-03-environment-and-first-observations.md`](docs/experiments/2026-11-03-environment-and-first-observations.md)。该文件目前只是待在两台 VM 上执行的实验计划，尚未声称实验已经完成。
 
 ## 许可证
 
