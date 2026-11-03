@@ -1,0 +1,6 @@
+.DS_Store
+*.pcap
+*.pcapng
+*.log
+__pycache__/
+*.pyc
